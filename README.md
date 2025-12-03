@@ -41,3 +41,6 @@ Se pueden crear clusters:
 Usuarios intensivos, usuarios pasivos, usuarios con alta interacción social y usuarios con emociones negativas persistentes 
 
 ## 3. DICCIONARIO DE DATOS
+
+<img width="595" height="265" alt="imagen" src="https://github.com/user-attachments/assets/47fc94e4-a531-441e-9825-2f8a95baeea1" />
+

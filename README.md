@@ -151,6 +151,15 @@ Cambia varios campos al mismo tiempo
 ![Sin título-1](https://github.com/user-attachments/assets/ebd35664-3273-49f0-b0ae-7cda5f7523ef)
 
 
+## REFERENCIAS BIBLIOGRÁFICAS
+Referencias bibliograficas
+Lakshman, A., & Malik, P. (2010). Cassandra: A decentralized structured storage system. ACM SIGOPS
+
+Stratio. (2016). Elassandra Documentation. Stratio Data. https://github.com/strapdata/elassandra
+
+Microsoft. (2022). Windows Subsystem for Linux Documentation. Microsoft Docs. https://docs.microsoft.com/windows/wsl
+
+
 
 
 

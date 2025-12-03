@@ -144,7 +144,7 @@ Cambia varios campos al mismo tiempo
 ![Sin título](https://github.com/user-attachments/assets/5e7279a2-d1d8-4b29-9ed3-c6cc42d4d7c8)
 ![Sin título-1](https://github.com/user-attachments/assets/6dba7c98-09c1-4d57-bf39-275cdb4d6945)
 ![Sin título](https://github.com/user-attachments/assets/99f77431-4ec7-4623-89de-03aed2dea43b)
-![Sin título-1](https://github.com/user-attachments/assets/70af8d6f-1573-43fd-9086-ffe13f7bbcef)
+![Sin título](https://github.com/user-attachments/assets/284822e7-3db1-4bb8-950b-5e76c93f7b7c)
 ![Sin título](https://github.com/user-attachments/assets/3c042d21-c72a-41a0-8655-322aca59bbcc)  
 
 ### Consulta de los delete:

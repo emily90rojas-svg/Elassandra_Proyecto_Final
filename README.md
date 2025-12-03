@@ -44,3 +44,32 @@ Usuarios intensivos, usuarios pasivos, usuarios con alta interacción social y u
 
 <img width="595" height="265" alt="imagen" src="https://github.com/user-attachments/assets/47fc94e4-a531-441e-9825-2f8a95baeea1" />
 
+## 4. MODELADO DEL DATASET EN ELASSANDRA
+El modelado se realizó utilizando el enfoque de datos tipo Wide-Column Store como en la parte de Cassandra, esto debido a la facilidad de almacenar los id's y de la habilidad adquirida durante el curso sobre sentencias del tipo SQL, para agilizar la creación de la tabla. Primero utilizamos la parte del user_id como partición para la agrupación de actividades por usuario, posteriormente, a platform como clave de clustering, además, se permitiría la consulta por usuario y plataforma específica. Este modelado nos ayudó a mantener una optimización para lecturas rápidas y construir un modelo eficiente y escalable para cargas mayores
+Código para la creación del keyspace:
+CREATE KEYSPACE IF NOT EXISTS socialks
+WITH replication = {'class': 'SimpleStrategy', 'replication_factor': 1};
+Código para la creación de la tabla:
+CREATE TABLE IF NOT EXISTS social_media_usage (
+    user_id text,
+    platform text,
+    age int,
+    gender text,
+    daily_usage_time_minutes int,
+    posts_per_day int,
+    likes_received_per_day int,
+    comments_received_per_day int,
+    messages_sent_per_day int,
+    dominant_emotion text,
+    PRIMARY KEY (user_id, platform)
+);
+
+## 4. HERRAMIENTAS UTILIZADAS
+1. Docker: Contenedor para elassandra
+2. Elassandra: Motor NoSQL para compatibilidad de cassandra y elasticsearch
+3. CQLSH: Ejecución de sentencias CQL
+4. Phyton 3 con Cassandra driver: script para la importación del datasert
+5. GitHub: documentación y control de versiones.
+
+## 5. IMPORTACIÓN DE DATOS
+

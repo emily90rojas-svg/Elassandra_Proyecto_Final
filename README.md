@@ -72,4 +72,32 @@ CREATE TABLE IF NOT EXISTS social_media_usage (
 5. GitHub: documentación y control de versiones.
 
 ## 5. IMPORTACIÓN DE DATOS
+Movimos el train.csv al contenedor y revisamos que haya quedado correctamente
+![Sin título](https://github.com/user-attachments/assets/28752dfb-bfb3-4539-8563-e2d9e065a81c)
+
+Creamos una red interna en docker, conectamos elassandra a esta red y creamos un contenedor python moderno con pip
+![Sin título-1](https://github.com/user-attachments/assets/67c10b09-ee39-4096-a252-ce4afeccdf19)
+
+Instalamos el driver de Cassandra
+![Sin título](https://github.com/user-attachments/assets/fce37eb4-12fb-4665-817e-8fd735e72904)
+
+Copiamos el csv al contenedor cliente
+![Sin título-1](https://github.com/user-attachments/assets/21c786e7-1e34-49ef-820c-b315e4834cbe)
+
+Realizamos el script de Python para cargar los datos a la base
+![Sin título](https://github.com/user-attachments/assets/61eac621-2bcf-4c1a-bd25-ee5638b79562)
+
+Realizamos la importación con el script
+![Sin título-1](https://github.com/user-attachments/assets/10c9c60b-357a-415c-8390-64de3d6d7ff4)
+
+Se revisó que se haya realizado correctamente la importación
+![Sin título](https://github.com/user-attachments/assets/62f3e345-f7ec-480c-b2b2-ab64abeeabb2)
+
+
+
+
+
+
+
+
 

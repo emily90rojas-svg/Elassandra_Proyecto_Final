@@ -93,7 +93,62 @@ Realizamos la importación con el script
 Se revisó que se haya realizado correctamente la importación
 ![Sin título](https://github.com/user-attachments/assets/62f3e345-f7ec-480c-b2b2-ab64abeeabb2)
 
+## 6. SENTENCIAS CRUD
 
+### CREATE
+![Sin título-1](https://github.com/user-attachments/assets/5b151530-49d3-47d4-9cd1-c47f1370b678)
+![Sin título-1](https://github.com/user-attachments/assets/eb265627-854f-48f0-8406-576ad3ee3a9c)
+![Sin título](https://github.com/user-attachments/assets/44e27f87-da34-496f-85ad-e3657facbdf6)
+![Sin título-1](https://github.com/user-attachments/assets/9f79e86f-8368-4524-b540-eb999277db50)
+![Sin título](https://github.com/user-attachments/assets/cf63eda8-767d-4e96-89a0-8e7d92dcdc38)
+
+
+
+
+
+### READ
+![Sin título](https://github.com/user-attachments/assets/bde26aca-d00e-4b46-9ea0-8467cb011652)
+![Sin título-1](https://github.com/user-attachments/assets/8e076bda-591f-4f9b-8b80-997f38727c1e)  
+
+Ver todos los usuarios en instagram  
+
+![Sin título](https://github.com/user-attachments/assets/40404e4c-3e57-442a-989f-bec3afdaa541)  
+
+Filtrar por emoción dominante (happiness)  
+![Sin título-1](https://github.com/user-attachments/assets/94d89a02-d9c2-4f03-b9db-ba6b3034dbc2)  
+
+Usuarios que pasan más de 120 minutos conectados
+![Sin título](https://github.com/user-attachments/assets/81ccf261-db3b-4790-80ca-9e3168cdb5d4)  
+
+### UPDATE
+![Sin título-1](https://github.com/user-attachments/assets/3695ef3c-6a35-4a4c-b764-e3862b8f8c5b)  
+Actualizar el tiempo de uso  
+
+![Sin título-1](https://github.com/user-attachments/assets/00b6201c-ac9d-4d35-8245-161d1c35ea66)  
+
+Cambiar el número de posts  
+![Sin título](https://github.com/user-attachments/assets/bc7f4c82-82e0-4d4f-b3f6-a4cf3015b030)  
+
+Cambiar el género
+![Sin título-1](https://github.com/user-attachments/assets/6360e757-81bf-49a4-9e2a-409c2980e9eb)  
+
+Cambia varios campos al mismo tiempo  
+![Sin título](https://github.com/user-attachments/assets/395dabb7-3a14-4171-89e2-faddca66726c)  
+
+### Consulta de los updates:
+![Sin título](https://github.com/user-attachments/assets/1398f77d-78a2-49ad-b5d3-b6ac16e0cd58)
+
+
+
+### DELETE
+![Sin título](https://github.com/user-attachments/assets/5e7279a2-d1d8-4b29-9ed3-c6cc42d4d7c8)
+![Sin título-1](https://github.com/user-attachments/assets/6dba7c98-09c1-4d57-bf39-275cdb4d6945)
+![Sin título](https://github.com/user-attachments/assets/99f77431-4ec7-4623-89de-03aed2dea43b)
+![Sin título-1](https://github.com/user-attachments/assets/70af8d6f-1573-43fd-9086-ffe13f7bbcef)
+![Sin título](https://github.com/user-attachments/assets/3c042d21-c72a-41a0-8655-322aca59bbcc)  
+
+### Consulta de los delete:
+![Sin título-1](https://github.com/user-attachments/assets/ebd35664-3273-49f0-b0ae-7cda5f7523ef)
 
 
 
